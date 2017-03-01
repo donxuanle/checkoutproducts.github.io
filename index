@@ -1,0 +1,355 @@
+<body>
+    <!-- Nav -->
+    <div class="outside">
+        <nav id="nav">
+            <ul class="container">
+                <li><a href="#" id="top">Top</a></li>
+                <li><a href="#" id="tech">Technologies</a></li>
+                <li><a href="#" id="portfolio">Portfolio</a></li>
+                <li><a href="#" id="codesamp">Code Samples</a></li>
+                <li><a href="#" id="contact">Contact</a></li>
+            </ul>
+        </nav>
+        <!-- Home -->
+
+
+        <div class="wrapper style1" id="top1">
+            <article class="container block">
+                <div class="row">
+                    <div class="4u 12u(mobile)">
+
+                        <img class="img-responsive img-circle profile1 halo" src="https://farm1.staticflickr.com/342/32837325131_a85e447f85_c.jpg" alt="" />
+
+                        <div class="title">
+
+
+                            <span class="profile col-lg-6 col-xs-12">Don Le</span>
+
+                            <span class="occupation col-lg-6 col-xs-12">Web Developer</span>
+
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </div>
+        <!-- Work -->
+        <div class="wrapper style2" id="tech1">
+            <article>
+                <header>
+                    <h2 class="headlines">Technologies</h2>
+
+                </header>
+                <div class="container">
+                    <div class="row">
+                        <div class="4u 12u(mobile)">
+                            <section class="box style1">
+                                <span class="icon featured fa-comments-o"></span>
+                                <img src="https://traycn.github.io/images/database-logo.png?w=100&h=100&mode=max" />
+                                <h3>Databases</h3>
+                                <p class="techFont">MS SQL</p>
+                            </section>
+                        </div>
+                        <div class="4u 12u(mobile)">
+                            <section class="box style1">
+                                <span class="icon featured fa-camera-retro"></span>
+                                <img src="https://traycn.github.io/images/AngularJS-Shield-large.png?w=100&h=100&mode=max" />
+                                <h3>Frameworks/Libraries</h3>
+                                <p class="techFont">AngularJS</p>
+                                <p class="techFont">jQuery</p>
+                            </section>
+                        </div>
+                        <div class="4u 12u(mobile)">
+                            <section class="box style1">
+                                <span class="icon featured fa-thumbs-o-up"></span>
+                                <img src="https://traycn.github.io/images/vs-logo.jpg?w=100&h=100&mode=max" />
+                                <h3>Source Control</h3>
+                                <p class="techFont">Team Foundation Servers</p>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="4u 12u(mobile)">
+                            <section class="box style1">
+                                <span class="icon featured fa-comments-o"></span>
+                                <img src="https://traycn.github.io/images/html5_rm.png?w=100&h=100&mode=max" />
+                                <h3>Layout</h3>
+                                <p class="techFont">HTML5</p>
+                                <p class="techFont">Bootstrap</p>
+                            </section>
+                        </div>
+                        <div class="4u 12u(mobile)">
+                            <section class="box style1">
+                                <span class="icon featured fa-camera-retro"></span>
+                                <img src="https://traycn.github.io/images/javascript_crop.png?w=100&h=100&mode=max" />
+                                <h3>Functionality</h3>
+                                <p class="techFont">Javascript</p>
+                                <p class="techFont">C#</p>
+                                <p class="techFont">TSQL</p>
+                            </section>
+                        </div>
+                        <div class="4u 12u(mobile)">
+                            <section class="box style1">
+                                <span class="icon featured fa-thumbs-o-up"></span>
+                                <img src="https://traycn.github.io/images/css3_rm.png?w=100&h=100&mode=max" />
+                                <h3>Design</h3>
+                                <p class="techFont">CSS</p>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+
+            </article>
+        </div>
+        <!-- Portfolio -->
+        <div class="wrapper style3" id="portfolio1">
+            <article>
+                <header>
+                    <h2 class="headlines">Portfolio</h2>
+
+                </header>
+                <div class="container">
+                    <div class="row">
+                        
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="hovereffect">
+                                <img class="djwedding" src="https://farm1.staticflickr.com/762/31128014884_f37e900a5b_b.jpg" alt="">
+                                <div class="overlay1">
+                                    <a class="port" href="http://danjeanniewedding.us-west-2.elasticbeanstalk.com/" target="_blank"><h2>Wedding Page</h2></a>
+                                    <p>
+                                        <a class="port portCode" href="https://github.com/donxuanle/GWIG" target="_blank">Code</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="hovereffect">
+                                <img class="checkout" src="https://farm3.staticflickr.com/2806/32796622400_b7df1c4272_h.jpg" alt="">
+                                <div class="overlay1">
+                                    <a class="port" href="http://sample-env-1.qmd58tn4sw.us-west-2.elasticbeanstalk.com" target="_blank"><h2>Checkout/ Products</h2></a>
+                                    <p>
+                                        <a class="port portCode" href="#" target="_blank">Code</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="hovereffect">
+                                <img class="img-responsive" src="https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=zs3gFv1NLub%2FEdXUkzXNh5RKRHk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3W4fcHXL-aiuQgUcC8clFc3fvL5EjKzD8Htf4-9KNh1icPjcI24ZxUBbFImi24" alt="">
+                                <div class="overlay1">
+                                    <a class="port" href="https://gwig.azurewebsites.net" target="_blank"><h2>Go Where I Go</h2></a>
+                                    <p>
+                                        <a class="port portCode" href="https://github.com/donxuanle/GWIG" target="_blank">Code</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <footer></footer>
+                    </div>
+                </div>
+            </article>
+        </div>
+
+
+        <!--Code Samples-->
+        <div class="wrapper style3" id="codesamp1">
+            <article id="portfolio">
+                <header>
+                    <h2 class="headlines">Code Samples</h2>
+                </header>
+                <div class="container">
+                    <div class="row">
+                        <div class="4u 12u(mobile)">
+                            <article class="box style2">
+                                <div class="container1">
+                                    <img src="http://angularjs.oscitas.netdna-cdn.com/wp-content/themes/angularjsrain/images/logo.png" alt="" class="image1 " />
+                                    <div class="middle">
+                                        <div class="overlay code1">
+                                            <a href="https://codeshare.io/5X81xK" target="_blank"><strong>Sample</strong></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="4u 12u(mobile)">
+                            <article class="box style2">
+                                <div class="container1">
+                                    <img src="http://www.dropzonejs.com/images/new-logo.svg" alt="class=" class="featured dropzone" />
+                                    <div class="middle">
+                                        <div class="overlay code1">
+                                            <a href="https://codeshare.io/adwRZD" target="_blank"><strong>Sample</strong></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="4u 12u(mobile)">
+                            <article class="box style2">
+                                <div class="container1">
+                                    <div class="image1 text-center jquery">AJAX</div>
+                                    <div class="middle">
+                                        <div class="overlay code1">
+                                            <a class="font1" href="https://codeshare.io/adwRZD" target="_blank"><strong>Sample</strong></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="4u 12u(mobile)">
+                            <article class="box style2">
+                                <div class="container1">
+                                    <img src="http://1.bp.blogspot.com/-0pwpTQI6BBc/UbIJu7BNLbI/AAAAAAAAABw/jVh2gOziO7g/s1600/ado.net-logo.jpg" alt="" class="image3" />
+                                    <div class="middle">
+                                        <div class="overlay code1">
+                                            <a href="https://codeshare.io/5eVRQK" target="_blank"><strong>Sample</strong></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="4u 12u(mobile)">
+                            <article class="box style2">
+                                <div class="container1">
+                                    <img src="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/MicrosoftSQLServer.png/revision/latest?cb=20150614233628" alt="" class="image2" />
+                                    <div class="middle">
+                                        <div class="overlay code1">
+                                            <a href="https://codeshare.io/5OdVpj" target="_blank"><strong>Sample</strong></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="4u 12u(mobile)">
+                            <article class="box style2">
+                                <div class="container1">
+                                    <img src="http://summitofthesoutheast.org/wp-content/uploads/2016/08/code-logo.png" alt="Avatar" class="image2">
+                                    <div class="overlay code1">
+                                        <a href="https://github.com/donxuanle" target="_blank"><strong>More Samples</strong></a>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+
+
+                <footer></footer>
+            </article>
+        </div>
+
+
+
+
+
+        <!-- Contact -->
+        <div class="wrapper style4">
+            <article class="container 75%">
+
+                <div>
+                    <div class="row">
+                        <div class="col-xs-12 col-md-5 col-lg-6 col-sm-12 text-left">
+                            <h3>Location</h3>
+                            <p class="location">
+                                <strong>Orange County</strong> , CA
+                            </p>
+
+                        </div>
+                        <div class="col-xs-12 col-md-7 col-lg-6 col-sm-12 text-left number">
+                            <h3>Contact</h3>
+                            <p>
+                                <strong>Phone</strong>
+                                <span class="phone">(714)261-3813</span>
+                                <br /><strong>Email</strong>
+                                <span class="email">DonXuanLe15@gmail.com</span>
+                                <br />
+                                <div class="icons">
+                                    <a href="https://github.com/donxuanle" target="_blank"> <img class="alt" id="git" src="http://untv.github.io/assets/images/github-icon-black.svg" /></a>
+                                    <a href="https://www.linkedin.com/in/don-le " target="_blank"> <img class="alt" id="linkedin" src="http://www.doubleve.fr/media/linkedin__063720400_1043_17042015.png" /></a>
+                                </div>
+                            </p>
+
+                        </div>
+                    </div>
+
+                    <footer id="contact1">
+                        <ul id="copyright">
+                            <li>&copy; Created by Don Le</li>
+
+                        </ul>
+                    </footer>
+                </div>
+            </article>
+        </div>
+
+    </div>
+
+    <!-- Scripts -->
+    <!-- jQuery library -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+    <script type="text/javascript">
+
+
+        sabio = {};
+        sabio.page = {};
+
+        $(document).ready(function ($)
+        {
+
+            $(".profile").hide(0).delay(500).fadeIn(3000)
+
+
+            $(".occupation").hide(0).delay(500).fadeIn(3000)
+
+            var body = $("html, body");
+
+            $("#top").on("click",(function(){
+                body.stop().animate({ scrollTop: $("#top1").offset().top }, 1000, 'linear', function () {}
+
+                )}));
+
+            $("#tech").on("click", (function () {
+                body.stop().animate({ scrollTop: $("#tech1").offset().top }, 1000, 'linear', function () { }
+
+                )
+            }));
+
+
+            $("#portfolio").on("click", (function () {
+                body.stop().animate({ scrollTop: $("#portfolio1").offset().top }, 1000, 'linear', function () { }
+
+                )
+            }));
+
+            $("#codesamp").on("click", (function () {
+                body.stop().animate({ scrollTop: $("#codesamp1").offset().top }, 1000, 'linear', function () { }
+
+                )
+            }));
+
+            $("#contact").on("click", (function () {
+                body.stop().animate({ scrollTop: $("#contact1").offset().top }, 1000, 'linear', function () { }
+
+                )
+            }));
+
+        })
+
+        
+
+
+
+
+
+
+
+    </script>
+
+</body>
